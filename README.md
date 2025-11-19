@@ -36,16 +36,18 @@ My goal is to contribute to impactful solutions and grow into a versatile full-s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshat9205&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat9205&layout=compact&theme=tokyonight" />
+<img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=Akshat9205&show_icons=true&theme=tokyonight" />
+<img width="378" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat9205&layout=compact&theme=tokyonight" />
 
 </div>
+
+
 
 ---
 
 ## 🏆 Achievements
 
-- 🔥 100+ LeetCode Problems Solved  
+- 🔥 400+ LeetCode Problems Solved  
 - 💡 Strong understanding of DSA  
 - 🚀 Building multiple Web Development Projects  
 - 🧠 Specialized in Java & Frontend  
