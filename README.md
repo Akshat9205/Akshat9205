@@ -1,96 +1,145 @@
-<h1 align="center">👋 Hi, I'm Akshat Agarwal</h1>
+<!-- =============================================== -->
+<!-- 🔥 AKSHAT AGARWAL — DARK HACKER + GRADIENT THEME -->
+<!-- =============================================== -->
+
+<h1 align="center" style="color:#00ffb3;">🟩 Akshat Agarwal — Full Stack Developer</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=500&lines=Problem+Solver;Web+Developer;Java+Enthusiast;DSA+Enthusiast;Frontend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FF9F&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Backend+Engineering;Full+Stack+Developer;LeetCode+Top+9%25+Coder;System+Design+Learner;Neon+Hacker+Theme+Enthusiast!" />
 </p>
 
-## 🧑‍💻 About Me
-
-Hi! I’m Akshat Agarwal, a passionate developer who loves building clean, modern, and user-focused digital experiences.
-I enjoy solving real-world problems using technology and continuously improving my skills through hands-on projects.
-My goal is to contribute to impactful solutions and grow into a versatile full-stack developer.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+# 🟦 📌 Quick Profile Summary
+<div style="border:2px solid #00ffaa; padding:16px; border-radius:14px; background:rgba(0,255,170,0.06);">
 
-### **Core**
-![Java](https://img.shields.io/badge/Java-Intermediate-blue)
-![HTML](https://img.shields.io/badge/HTML-Advanced-orange)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey)
-
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-Advanced-red)
-![GitHub](https://img.shields.io/badge/GitHub-Developer-black)
-![VS Code](https://img.shields.io/badge/VSCode-Editor-blue)
-
-### **Additional Skills**
-![Frontend](https://img.shields.io/badge/Frontend-Developer-green)
-![DSA](https://img.shields.io/badge/DSA-Learning-orange)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Active-brightgreen)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=Akshat9205&show_icons=true&theme=tokyonight" />
-<img width="378" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat9205&layout=compact&theme=tokyonight" />
+### 🌍 About Me  
+- 💻 Full Stack Developer | **Java + DSA Focused**  
+- 🧠 Strong in **Algorithms, OOPs, DBMS & Backend Logic**  
+- 🔥 **499+ problems solved** on LeetCode  
+- 🏆 Contest Rating **1768** (Top **8.97%**)  
+- 🎓 B.Tech CSE – **GLA University**  
+- 📧 Email: **agakshat112005@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/akshat-agarwal-83b7332b4/**  
 
 </div>
 
+---
 
+# 🟨 🧊 LeetCode Stats (Neon Hacker Mode)
+<div style="border:2px solid #00eaff; padding:20px; border-radius:14px; background:rgba(0,238,255,0.06);">
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_2315000202?theme=dark&font=Fira%20Code&border=0&ext=contest" />
+</p>
+
+### 🟦 Contest Performance  
+- ⭐ **Rating:** 1768  
+- 🌍 **Global Rank:** 177,232  
+- 🏁 **Contests:** 26  
+- 📊 **Top:** 8.97%
+
+### 🟪 Problem Solving  
+- 🧩 **Solved:** 499+  
+- 🟢 Easy: 237  
+- 🟡 Medium: 244  
+- 🔴 Hard: 18  
+
+### 🏅 Badges  
+- 200 Days Badge (2025)  
+- Consistency Badges  
+
+</div>
 
 ---
 
-## 🏆 Achievements
-
-- 🔥 400+ LeetCode Problems Solved  
-- 💡 Strong understanding of DSA  
-- 🚀 Building multiple Web Development Projects  
-- 🧠 Specialized in Java & Frontend  
-- 📈 Growing in competitive programming  
-
----
-## 📚 Competitive Programming Stats  
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 🟧 LeetCode Stats  
-<img src="https://github.com/user-attachments/assets/3d22020d-311e-489e-963b-9d590f9ad78e" width="350">
-
-</td>
-
-<td align="center">
-
-### 🔵 Codeforces Stats  
-<img width="570" alt="Screenshot 2025-11-19 191539" src="https://github.com/user-attachments/assets/a546f759-d781-4fa8-ba9e-011926f56acb" />
-
-</td>
-</tr>
+# 🟣 ⚡ GitHub Stats (Glow Panels)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://stats-github-readme.vercel.app/api?username=Akshat9205&show_icons=true&theme=tokyonight" width="420"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Akshat9205&theme=tokyonight" width="420"/>
+    </td>
+  </tr>
 </table>
 
+<br/>
+
+<p align="center">
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Akshat9205&layout=compact&theme=tokyonight" width="420"/>
+</p>
+
+
+<!-- ===================== Animated Divider ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
+
+# 🟩 🛠️ Tech Stack
+<div style="border:2px solid #00ff9f; padding:20px; border-radius:14px; background:rgba(0,255,159,0.06);">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,mongodb,html,css,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
 </div>
 
 ---
-<h1 align="center"> 🤝 Connect With Me</h1>
 
+# 🟦 📦 Strength Areas
+
+<div style="border:2px solid #00ffaa; padding:16px; border-radius:12px; background:rgba(0,255,170,0.06);">
+✔ Competitive Programming  
+✔ Strong DSA & Problem Solving  
+✔ Backend APIs & Logic  
+✔ Clean Code & Debugging  
+✔ Fast Learner  
+</div>
+
+---
+
+# 🟨 🌱 Currently Learning
+<div style="border:2px solid #00eaff; padding:16px; border-radius:12px; background:rgba(0,238,255,0.06);">
+🔹 Advanced System Design  
+🔹 Backend Scaling  
+🔹 Cloud Fundamentals  
+🔹 AI + ML Basics  
+</div>
+
+---
+
+# 🟪 🚀 Featured Work
+<div style="border:2px solid #b75fff; padding:16px; border-radius:12px; background:rgba(183,95,255,0.06);">
+🔸 Full Stack MERN Applications  
+🔸 AI-Based Student Platforms  
+🔸 Backend Dashboards & APIs  
+🔸 DSA & Competitive Programming Solutions  
+</div>
+
+---
+
+# 🟫 🧮 Contribution Heatmap
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshat-agarwal-83b7332b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
-  <a href="agakshat112005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
-  <a href="https://github.com/Akshat9205"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"></a>
+  <img src="https://ghchart.rshah.org/00FF9F/Akshat9205" width="720" />
 </p>
 
 ---
 
-<div align="center">
+# 🟨 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshat9205&color=00ff9f&style=for-the-badge" />
+</p>
 
-✨ “Consistency beats talent when talent doesn’t stay consistent.” ✨
+---
 
-</div>
+<p align="center" style="color:#00FF9F;">
+  ⭐ If you like this README, drop a star — it motivates me!
+</p>
